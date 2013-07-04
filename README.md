@@ -1,7 +1,7 @@
 WebPageCrawler
 ==============
 
-    Here are some PERL script tools for you to build a small size parallel corpus from the Internet. This is the first version, it cannot be guarnteed that it works well on every websites, because different website has different format and regularity. (http://www.superfection.com/ and http://www.jukuu.com/ have been tested) You can apply these tools directly on the two websites above.
+Here are some PERL script tools for you to build a small size parallel corpus from the Internet. This is the first version, it cannot be guarnteed that it works well on every websites, because different website has different format and regularity. (http://www.superfection.com/ and http://www.jukuu.com/ have been tested) You can apply these tools directly on the two websites above.
 * Before using it, you need a environment to run the PERL
 * Check your computer, if you do not have PERL, you can download: http://www.perl.org/get.html 
 * In Windows, the text editor I recommand you to use the Notepad++: http://notepad-plus-plus.org/download/
